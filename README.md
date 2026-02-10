@@ -1,6 +1,6 @@
 ## Skills
 
-- **Languages:** JavaScript / TypeScript / Python / Golang(basics/can make project though)
+- **Languages:** JavaScript / TypeScript / ( Python / Golang(not primary) )
 - **Databases:** SQL, NoSQL  
 - **DevOps & Tools:** Docker, Git, Related Tech...
 - **App Developement:** React Native Expo
