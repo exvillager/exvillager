@@ -1,21 +1,38 @@
+# Hey, I'm Pradeep
+
+Self-taught developer who loves building things from scratch. I enjoy going low-level — understanding how frameworks, routers, and tools actually work by building my own. Most of my work is open source.
+
+---
+
 ## Skills
 
-- **Languages:** JavaScript / TypeScript / ( Python / Golang(not primary) )
-- **Databases:** SQL, NoSQL  
-- **DevOps & Tools:** Docker, Git, Related Tech...
-- **App Developement:** React Native Expo
-- **Full Stack:** React/Next.js, Node/framework, GraphQL, can work with any other technology.
+**Languages:** JavaScript/TypeScript *(Primary)* &nbsp;|&nbsp; Python, Go *(Knows)*
+
+**Databases:** PostgreSQL, MongoDB, Redis
+
+**Backend & Full Stack:** Node.js, Express, GraphQL, React, Next.js
+
+**App Development:** React Native, Expo
+
+**DevOps & Tools:** Docker, Git, Linux
+
 ---
 
 ## Projects
 
-- **[DevTube](https://github.com/pradeepbgs/devtube)** – A full-stack video-sharing platform built with React, Node.js, and MongoDB.  
+- **[Diesel.js](https://github.com/pradeepbgs/diesel)** – Lightweight, fast open source web framework for Node.js. Built as an alternative to Express/Hono from scratch.
 
-- **[Diesel.js](https://github.com/pradeepbgs/diesel)** – An open source simple, lightweight & Fast web framework , similar to Hono.js/Express.js  
+- **[nanoServe](https://github.com/pradeepbgs/nanoServe)** – A small & fast Routing library written in Go for making APIs.
 
-- **[Pingfile](https://github.com/pradeepbgs/pingfile)** – An open source file & CLI based API testing software.  
+- **[Pingfile](https://github.com/pradeepbgs/pingfile)** – An open source file & CLI based API testing software.
 
-- **[Ex-Router](https://github.com/pradeepbgs/ex-router)** – An open source , ex-router is a NPM package that let's you do File-Based routing similarlly how Next.js / Nuxt.js does. 
-works with express/hono/etc libs.
+- **[Ex-Router](https://github.com/pradeepbgs/ex-router)** –A small library that brings Next.js-style file-based routing to Express, Hono, and more.
+
+- **[DevTube](https://github.com/pradeepbgs/devtube)** – FullStack video sharing platform built with React, Node.js, and MongoDB.
 
 ---
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/pradeep-kumar-180b3423a)
+- [Website](https://exvillager.xyz)
