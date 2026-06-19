@@ -1,4 +1,4 @@
-# Hey, I'm Pradeep
+# Pradeep kumar
 
 Self-taught developer who loves building things from scratch. I enjoy going low-level — understanding how frameworks, routers, and tools actually work by building my own. Most of my work is open source.
 
