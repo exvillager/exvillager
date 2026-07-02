@@ -20,15 +20,15 @@ Self-taught developer who loves building things from scratch. I enjoy going low-
 
 ## Projects
 
-- **[Diesel.js](https://github.com/pradeepbgs/diesel)** – Lightweight, fast open source web framework for Node.js. Built as an alternative to Express/Hono from scratch.
+- **[Diesel.js](https://github.com/libsib/diesel)** – Lightweight, fast open source web framework for Node.js. Built as an alternative to Express/Hono from scratch.
 
-- **[nanoServe](https://github.com/pradeepbgs/nanoServe)** – A small & fast Routing library written in Go for making APIs.
+- **[nanoServe](https://github.com/libsib/nanoServe)** – A small & fast Routing library written in Go for making APIs.
 
-- **[Pingfile](https://github.com/pradeepbgs/pingfile)** – An open source file & CLI based API testing software.
+- **[Pingfile](https://github.com/libsib/pingfile)** – An open source file & CLI based API testing software.
 
-- **[Ex-Router](https://github.com/pradeepbgs/ex-router)** –A small library that brings Next.js-style file-based routing to Express, Hono, and more.
+- **[Ex-Router](https://github.com/libsib/ex-router)** –A small library that brings Next.js-style file-based routing to Express, Hono, and more.
 
-- **[DevTube](https://github.com/pradeepbgs/devtube)** – FullStack video sharing platform built with React, Node.js, and MongoDB.
+- **[DevTube](https://github.com/exvillager/devtube)** – FullStack video sharing platform built with React, Node.js, and MongoDB.
 
 ---
 
