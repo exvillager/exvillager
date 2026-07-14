@@ -20,7 +20,7 @@ Self-taught developer who loves building things from scratch. I enjoy going low-
 
 ## Projects
 
-- **[Diesel.js](https://github.com/libsib/diesel)** – Lightweight, fast open source web framework for Node.js. Built as an alternative to Express/Hono from scratch.
+- **[Diesel.js](https://github.com/libsib/diesel.js)** – Lightweight, fast open source web framework for Node.js. Built as an alternative to Express/Hono from scratch.
 
 - **[nanoServe](https://github.com/libsib/nanoServe)** – A small & fast Routing library written in Go for making APIs.
 
