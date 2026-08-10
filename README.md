@@ -1,20 +1,18 @@
 # Pradeep kumar
 
-Self-taught developer who loves building things from scratch. I enjoy going low-level — understanding how frameworks, routers, and tools actually work by building my own. Most of my work is open source.
+Self-taught developer who loves building things from scratch to understand how systems work.
 
 ---
 
 ## Skills
 
-**Languages:** JavaScript/TypeScript *(Primary)* &nbsp;|&nbsp; Python, Go *(Knows)*
-
-**Databases:** PostgreSQL, MongoDB, Redis
-
-**Backend & Full Stack:** Node.js, Express, GraphQL, React, Next.js
-
-**App Development:** React Native, Expo
-
-**DevOps & Tools:** Docker, Git, Linux
+| Category | Stack |
+|---|---|
+| **Languages** | JavaScript/TypeScript *(Primary)*, Python, Go *(Knows)* |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **Backend & Full Stack** | Node.js, Express, GraphQL, React, Next.js |
+| **App Development** | React Native, Expo |
+| **DevOps & Tools** | Docker, Git, Linux |
 
 ---
 
